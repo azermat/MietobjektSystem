@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer ID="100">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Lagerhaus">
+        <ObjectID>10</ObjectID>
+        <RentStart>2016-01-01T00:00:00</RentStart>
+        <Rent>20500</Rent>
+        <ObjectTotalincomeFirst>23000</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>20000</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>23000</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>5000</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>12305</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>3200</ObjectManagementcostsSince>
+      </RentalObject>
+      <RentalObject RentalObjectType="Wohnung">
+        <ObjectID>11</ObjectID>
+        <RentStart>2017-01-01T00:00:00</RentStart>
+        <Rent>5600</Rent>
+        <ObjectTotalincomeFirst>21000</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>20000</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>23000</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>42000</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>41000</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>4000</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>OmniSys GmbH</Name>
+    <TotalincomeFirst>9400</TotalincomeFirst>
+    <TotalincomeCurrent>2300</TotalincomeCurrent>
+    <TotalincomeSince>20000</TotalincomeSince>
+    <ManagementcostsCurrent>31999</ManagementcostsCurrent>
+    <ManagementcostsSince>23400</ManagementcostsSince>
+  </Customer>
+  <Customer ID="101">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Laden">
+        <ObjectID>20</ObjectID>
+        <RentStart>2021-01-01T00:00:00</RentStart>
+        <Rent>2800</Rent>
+        <ObjectTotalincomeFirst>3599</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>23000</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>23960</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>2300</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>1200</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>11200</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>Bäckerei Bender</Name>
+    <TotalincomeFirst>23000</TotalincomeFirst>
+    <TotalincomeCurrent>4100</TotalincomeCurrent>
+    <TotalincomeSince>4200</TotalincomeSince>
+    <ManagementcostsCurrent>3000</ManagementcostsCurrent>
+    <ManagementcostsSince>23000</ManagementcostsSince>
+  </Customer>
+  <Customer ID="103">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Lagerhaus">
+        <ObjectID>30</ObjectID>
+        <RentStart>2016-01-01T00:00:00</RentStart>
+        <Rent>3000</Rent>
+        <ObjectTotalincomeFirst>2300</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>1200</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>400</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>4100</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>1300</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>4000</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>MF KFZ Werkstatt</Name>
+    <TotalincomeFirst>400000</TotalincomeFirst>
+    <TotalincomeCurrent>123000</TotalincomeCurrent>
+    <TotalincomeSince>42000</TotalincomeSince>
+    <ManagementcostsCurrent>4200</ManagementcostsCurrent>
+    <ManagementcostsSince>2300</ManagementcostsSince>
+  </Customer>
+  <Customer ID="104">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Wohnung">
+        <ObjectID>40</ObjectID>
+        <RentStart>2016-01-01T00:00:00</RentStart>
+        <Rent>3400</Rent>
+        <ObjectTotalincomeFirst>3400</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>2300</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>3400</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>4300</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>5300</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>3400</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>Codinental AG</Name>
+    <TotalincomeFirst>1300</TotalincomeFirst>
+    <TotalincomeCurrent>41000</TotalincomeCurrent>
+    <TotalincomeSince>5000</TotalincomeSince>
+    <ManagementcostsCurrent>2300</ManagementcostsCurrent>
+    <ManagementcostsSince>12300</ManagementcostsSince>
+  </Customer>
+  <Customer ID="105">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Wohnhaus">
+        <ObjectID>500</ObjectID>
+        <RentStart>2009-01-01T00:00:00</RentStart>
+        <Rent>2960</Rent>
+        <ObjectTotalincomeFirst>3400</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>2300</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>5320</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>53420</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>12300</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>23004</ObjectManagementcostsSince>
+      </RentalObject>
+      <RentalObject RentalObjectType="Wohnung">
+        <ObjectID>501</ObjectID>
+        <RentStart>2010-01-01T00:00:00</RentStart>
+        <Rent>2350</Rent>
+        <ObjectTotalincomeFirst>3200</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>3200</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>10005</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>4100</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>21300</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>2300</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>Thomas Hoss</Name>
+    <TotalincomeFirst>2300</TotalincomeFirst>
+    <TotalincomeCurrent>400</TotalincomeCurrent>
+    <TotalincomeSince>1230</TotalincomeSince>
+    <ManagementcostsCurrent>400</ManagementcostsCurrent>
+    <ManagementcostsSince>2300</ManagementcostsSince>
+  </Customer>
+  <Customer ID="106">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Wohnung">
+        <ObjectID>600</ObjectID>
+        <RentStart>2019-01-01T00:00:00</RentStart>
+        <Rent>2340</Rent>
+        <ObjectTotalincomeFirst>2300</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>500</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>2300</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>1300</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>3200</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>4200</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>Lena Schmidt</Name>
+    <TotalincomeFirst>21300</TotalincomeFirst>
+    <TotalincomeCurrent>4100</TotalincomeCurrent>
+    <TotalincomeSince>2300</TotalincomeSince>
+    <ManagementcostsCurrent>12350</ManagementcostsCurrent>
+    <ManagementcostsSince>23400</ManagementcostsSince>
+  </Customer>
+  <Customer ID="107">
+    <rentalObjects>
+      <RentalObject RentalObjectType="Laden">
+        <ObjectID>600</ObjectID>
+        <RentStart>2010-01-01T00:00:00</RentStart>
+        <Rent>2000</Rent>
+        <ObjectTotalincomeFirst>4200</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>2300</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>2300</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>1230</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>400</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>4210</ObjectManagementcostsSince>
+      </RentalObject>
+      <RentalObject RentalObjectType="Wohnung">
+        <ObjectID>601</ObjectID>
+        <RentStart>1011-01-01T00:00:00</RentStart>
+        <Rent>2690</Rent>
+        <ObjectTotalincomeFirst>12300</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>41230</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>4100</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>5200</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>400</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>12300</ObjectManagementcostsSince>
+      </RentalObject>
+    </rentalObjects>
+    <Name>Karl Heinz</Name>
+    <TotalincomeFirst>2300</TotalincomeFirst>
+    <TotalincomeCurrent>41200</TotalincomeCurrent>
+    <TotalincomeSince>2300</TotalincomeSince>
+    <ManagementcostsCurrent>4001</ManagementcostsCurrent>
+    <ManagementcostsSince>3100</ManagementcostsSince>
+  </Customer>
+</ArrayOfCustomer>

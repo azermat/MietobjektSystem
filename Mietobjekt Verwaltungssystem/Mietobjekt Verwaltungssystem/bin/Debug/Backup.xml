@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer ID="2">
+    <RentalObjects>
+      <RentalObject xsi:type="RentObjectFlat">
+        <ObjectID>20</ObjectID>
+        <RentStart>2000-01-01T00:00:00</RentStart>
+        <CreationDate>0001-01-01T00:00:00</CreationDate>
+        <Rent>20000</Rent>
+        <ObjectTotalincomeFirst>2000</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>12129</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>2000</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>2000</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>3221</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>2000</ObjectManagementcostsSince>
+        <Renovations>
+          <string> Termin: 12.12.2000         Renovierungen: Tapeten         Mängel: Risse Wand</string>
+          <string> Termin: 09.04.2007         Renovierungen: Laminat         Mängel: Boden</string>
+          <string> Termin: 21.03.2014         Renovierungen: Fenster         Mängel: Risse im Fenster</string>
+        </Renovations>
+      </RentalObject>
+      <RentalObject xsi:type="RentObjectWarehouse">
+        <ObjectID>321</ObjectID>
+        <RentStart>2017-01-01T00:00:00</RentStart>
+        <CreationDate>2022-08-30T12:24:52.5941343+02:00</CreationDate>
+        <Rent>2000</Rent>
+        <ObjectTotalincomeFirst>3000</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>3000</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>3000</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>3000</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>3000</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>3000</ObjectManagementcostsSince>
+      </RentalObject>
+    </RentalObjects>
+    <CreationDate>0001-01-01T00:00:00</CreationDate>
+    <Name>sad</Name>
+    <TotalincomeFirst>2</TotalincomeFirst>
+    <TotalincomeCurrent>2</TotalincomeCurrent>
+    <TotalincomeSince>2</TotalincomeSince>
+    <ManagementcostsCurrent>2</ManagementcostsCurrent>
+    <ManagementcostsSince>2</ManagementcostsSince>
+  </Customer>
+  <Customer ID="3">
+    <RentalObjects />
+    <CreationDate>2022-08-30T12:24:06.4266107+02:00</CreationDate>
+    <Name>ssss</Name>
+    <TotalincomeFirst>3</TotalincomeFirst>
+    <TotalincomeCurrent>3</TotalincomeCurrent>
+    <TotalincomeSince>3</TotalincomeSince>
+    <ManagementcostsCurrent>3</ManagementcostsCurrent>
+    <ManagementcostsSince>3</ManagementcostsSince>
+  </Customer>
+  <Customer ID="4">
+    <RentalObjects>
+      <RentalObject xsi:type="RentObjectResidence">
+        <ObjectID>30</ObjectID>
+        <RentStart>2019-01-01T00:00:00</RentStart>
+        <CreationDate>2022-08-30T12:25:19.2636085+02:00</CreationDate>
+        <Rent>23000</Rent>
+        <ObjectTotalincomeFirst>4000</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>4000</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>4000</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>4000</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>4000</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>4000</ObjectManagementcostsSince>
+        <chimneysweeps />
+      </RentalObject>
+    </RentalObjects>
+    <CreationDate>2022-08-30T12:24:13.9959843+02:00</CreationDate>
+    <Name>lalala</Name>
+    <TotalincomeFirst>21</TotalincomeFirst>
+    <TotalincomeCurrent>21</TotalincomeCurrent>
+    <TotalincomeSince>2</TotalincomeSince>
+    <ManagementcostsCurrent>2</ManagementcostsCurrent>
+    <ManagementcostsSince>2</ManagementcostsSince>
+  </Customer>
+  <Customer ID="123">
+    <RentalObjects />
+    <CreationDate>2022-08-30T12:24:19.9959858+02:00</CreationDate>
+    <Name>test</Name>
+    <TotalincomeFirst>3</TotalincomeFirst>
+    <TotalincomeCurrent>3</TotalincomeCurrent>
+    <TotalincomeSince>3</TotalincomeSince>
+    <ManagementcostsCurrent>3</ManagementcostsCurrent>
+    <ManagementcostsSince>3</ManagementcostsSince>
+  </Customer>
+  <Customer ID="5">
+    <RentalObjects>
+      <RentalObject xsi:type="RentObjectShop">
+        <ObjectID>30</ObjectID>
+        <RentStart>2020-01-01T00:00:00</RentStart>
+        <CreationDate>2022-08-30T12:25:46.318662+02:00</CreationDate>
+        <Rent>31000</Rent>
+        <ObjectTotalincomeFirst>4000</ObjectTotalincomeFirst>
+        <ObjectTotalincomeCurrent>4004</ObjectTotalincomeCurrent>
+        <ObjectTotalincomeSince>400</ObjectTotalincomeSince>
+        <ObjectManagementcostsFirst>40000</ObjectManagementcostsFirst>
+        <ObjectManagementcostsCurrent>4000</ObjectManagementcostsCurrent>
+        <ObjectManagementcostsSince>4000</ObjectManagementcostsSince>
+        <firealarmtests />
+      </RentalObject>
+    </RentalObjects>
+    <CreationDate>2022-08-30T12:24:26.8425887+02:00</CreationDate>
+    <Name>testtest</Name>
+    <TotalincomeFirst>5</TotalincomeFirst>
+    <TotalincomeCurrent>5</TotalincomeCurrent>
+    <TotalincomeSince>5</TotalincomeSince>
+    <ManagementcostsCurrent>5</ManagementcostsCurrent>
+    <ManagementcostsSince>5</ManagementcostsSince>
+  </Customer>
+</ArrayOfCustomer>
